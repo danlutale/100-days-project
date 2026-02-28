@@ -78,4 +78,4 @@ score = 0
 height = 1.8
 is_winning = True
 
-print(f"Your score is = {score}, your high is {height}, You are winning {is_winning} ")
+print(f"Your score is {score}, your high is {height}, You are winning {is_winning} ")
